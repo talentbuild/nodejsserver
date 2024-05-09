@@ -1,0 +1,20 @@
+Client ID:
+BiiVg7n9TTGKcAZAZwof6g
+
+Client Secret:
+mfD8ka40lh1gCHZTkTck7Bag9Fz3lHZF
+
+Secret Token:
+Zoom sends the secret token in each event notification we send to your app.
+Note: This secret token is used to verify event notifications sent by Zoom.
+pUVg_AsSRmaCthwtg8-DPQ
+
+Verification Token(Retires in August 2024)
+Replace the Verification Token with Secret Token to verify event notifications from Zoom.
+KL6Jkf8MSLyiZD8hujVAYg
+
+
+Authorization URL:
+https://zoom.us/oauth/authorize?client_id=BiiVg7n9TTGKcAZAZwof6g&response_type=code&redirect_uri=http%3A%2F%2F192.168.43.1%3A5000
+
+MY ZOOM APP LINK: https://marketplace.zoom.us/develop/applications/5JH_HhbgTXuYrH-iAJLe5g/test?mode=dev
